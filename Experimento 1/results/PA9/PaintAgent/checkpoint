@@ -1,0 +1,2 @@
+model_checkpoint_path: "PaintAgent-0.ckpt"
+all_model_checkpoint_paths: "PaintAgent-0.ckpt"

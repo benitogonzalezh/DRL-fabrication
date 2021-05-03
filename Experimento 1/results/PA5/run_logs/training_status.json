@@ -1,0 +1,23 @@
+{
+    "PaintAgent": {
+        "checkpoints": [
+            {
+                "steps": 1200,
+                "file_path": "results\\PA5\\PaintAgent\\PaintAgent-1200.nn",
+                "reward": 0.40143174181381863,
+                "creation_time": 1602856692.3757322
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1200,
+            "file_path": "results\\PA5\\PaintAgent.nn",
+            "reward": 0.40143174181381863,
+            "creation_time": 1602856692.3757322
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.3.1"
+    }
+}
